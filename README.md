@@ -1,1 +1,1 @@
-This function check is a given array is sorted in ascending order.
+This function returns true if given array is ascendingly sorted. Otherwise returns false.
